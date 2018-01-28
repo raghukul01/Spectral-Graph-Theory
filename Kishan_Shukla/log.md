@@ -1,2 +1,2 @@
 # Log of your progress
-## Learning **C++** and **Latex** within 1 week
+## Learning **_C++_** and **_Latex_** within 1 week
