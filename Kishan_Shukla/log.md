@@ -1,4 +1,4 @@
 # Log of your progress
-## Learning ( within one week ) 
+## Following to be learned ( within one week ) 
 * **_C++_** 
 * **_Latex_**
