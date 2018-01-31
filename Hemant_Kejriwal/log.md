@@ -1,1 +1,2 @@
-# Log of your progress
+# Progress Report
+## Learning C++ and Latex, until next week
