@@ -15,4 +15,4 @@
   * Assignment 4 (all questions solved and solution is uploaded)
   * Prime Numbers(code is submitted)
   * Assignment 3 (code is uploaded)
-  * Wilson theorum proof in late
+  * Wilson theorum proof in latex
