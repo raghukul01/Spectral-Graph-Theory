@@ -17,3 +17,6 @@
   * Prime Numbers(code is submitted)
   * Assignment 3 (code is uploaded)
   * Wilson theorum proof in latex
+  * Code for prob 1 final assignment
+      
+    note: since input format was not provided I have submitted code which assumes that adjacancy matrix is already provided
