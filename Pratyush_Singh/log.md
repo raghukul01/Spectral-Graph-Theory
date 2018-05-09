@@ -4,6 +4,9 @@
   * CPP learnt
   * Latex learnt
   * Markdown learnt
+ 
+  also not to forget all the stuff taught in class
+ 
 * Reading Part
   * [introduction to sgt](www.cse.iitk.ac.in/users/rmittal/reports/11intro_sgt.pdf) done
   * [colouring and highest eigenvlaue](www.cse.iitk.ac.in/users/rmittal/reports/12color.pdf) done
