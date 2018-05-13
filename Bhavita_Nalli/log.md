@@ -4,8 +4,8 @@
 #### learnt markdown
  
  ## READING PART
-#### 1.Introduction to spectral graph theory
-#### 2.Euler cycle and Euler path
+#### 1. Introduction to spectral graph theory
+#### 2. Euler cycle and Euler path
 #### 3.Eigenvalues and Eigenvectors of the Laplacians of Some Fundamental graphs_
 #### 4.Largest Eigenvalue and colouring
 #### 5.cheeger's inequality done
