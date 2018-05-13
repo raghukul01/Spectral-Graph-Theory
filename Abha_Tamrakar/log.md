@@ -1,8 +1,8 @@
 Learning Task
 
 1.c++
-2.Latex
-3.Markdown
+\\2.Latex
+\\3.Markdown
 4.Basic theme and terms of graph theory
 
 Reading Assignment
