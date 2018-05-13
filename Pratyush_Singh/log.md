@@ -11,10 +11,10 @@
   * [introduction to sgt](www.cse.iitk.ac.in/users/rmittal/reports/11intro_sgt.pdf) done
   * [colouring and highest eigenvlaue](www.cse.iitk.ac.in/users/rmittal/reports/12color.pdf) done
   * [cheeger's inequality](www.cse.iitk.ac.in/users/rmittal/reports/13cheeger.pdf) done
-  * Leighton-rao algorithm done
-  * finding Bridges in O(m + n)
-  * Finding Articulation point
-  * 3D dp solution to count fixed length path for all pair of nodes
+  * [Leighton-rao algorithm done]
+  * [finding Bridges in O(m + n)](www.e-maxx-eng.appspot.com/graph/bridge-searching.html)
+  * [Finding Articulation point](www.e-maxx-eng.appspot.com/graph/cutpoints.html)
+  * [3D dp solution to count fixed length path for all pair of nodes](www.e-maxx-eng.appspot.com/graph/fixed_lenght_paths.html)
 * Application part
   * Assignment 4 (all questions solved and solution is uploaded)
   * Prime Numbers(code is submitted)
