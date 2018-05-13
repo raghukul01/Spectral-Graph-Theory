@@ -1,6 +1,6 @@
 ## Log of your progress
 ## LEARNING PART
-####_learnt c++ and latex_
+#### _learnt c++ and latex_
 _learnt markdown_
 
 ## READING PART
