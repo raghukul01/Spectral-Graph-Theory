@@ -20,5 +20,5 @@ Reading Assignment
  1.Wilson theorum proof in latex
  2.(c++)prime numbers
  3.assigmnent 4
- 4.final assignment prob.1
+ 4.final assignment (all)
  
