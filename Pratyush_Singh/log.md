@@ -8,10 +8,10 @@
   also not to forget all the stuff taught in class
  
 * Reading Part
-  * [introduction to sgt](www.cse.iitk.ac.in/users/rmittal/reports/11intro_sgt.pdf) done
-  * [colouring and highest eigenvlaue](www.cse.iitk.ac.in/users/rmittal/reports/12color.pdf) done
+  * [introduction to sgt] (www.cse.iitk.ac.in/users/rmittal/reports/11intro_sgt.pdf) done
+  * [colouring and highest eigenvlaue] (www.cse.iitk.ac.in/users/rmittal/reports/12color.pdf) done
   * [cheeger's inequality](www.cse.iitk.ac.in/users/rmittal/reports/13cheeger.pdf) done
-  * [Leighton-rao algorithm done]
+  * [Leighton-rao algorithm done]()
   * [finding Bridges in O(m + n)](www.e-maxx-eng.appspot.com/graph/bridge-searching.html)
   * [Finding Articulation point](www.e-maxx-eng.appspot.com/graph/cutpoints.html)
   * [3D dp solution to count fixed length path for all pair of nodes](www.e-maxx-eng.appspot.com/graph/fixed_lenght_paths.html)
