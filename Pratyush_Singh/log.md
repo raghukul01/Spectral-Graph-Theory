@@ -4,6 +4,7 @@
   * CPP learnt
   * Latex learnt
   * Markdown learnt
+  * SGT (only some part)
  
   also not to forget all the stuff taught in class
  
