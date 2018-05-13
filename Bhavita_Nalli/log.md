@@ -1,10 +1,10 @@
 ### Log of your progress
 ### Learning C++ and latex(till next week)
-#### _learnt c++ and latex_
-#### _learnt markdown_
+#### learnt c++ and latex
+#### learnt markdown
  
  ## READING PART
-####_*1.Introduction to spectral graph theory*_
+#### 1.Introduction to spectral graph theory
 
 ####_2.Euler cycle and Euler path_
 ####_3.Eigenvalues and Eigenvectors of the Laplacians of Some Fundamental graphs_
