@@ -16,7 +16,7 @@
   * Assignment 4 (all questions solved and solution is uploaded)
   * Prime Numbers(code is submitted)
   * Assignment 3 (code is uploaded)
-  * Wilson theorum proof in latex
+  * Wilson theorum proof in latex
   *  Code for prob 1 final assignment
   *  Algo given for final assignment problem 2 done
   
