@@ -18,7 +18,7 @@
   * Assignment 3 (code is uploaded)
   * Wilson theorum proof in latex
    * Code for prob 1 final assignment
-   * Algo given for final assignment problem 2 done  
+   *  Algo given for final assignment problem 2 done  
   
   
   
