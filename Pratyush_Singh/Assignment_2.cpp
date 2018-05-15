@@ -1,3 +1,4 @@
+// problem link: http://codeforces.com/problemset/problem/936/B
 #include<iostream>
 #include<cstring>
 #include<vector>
